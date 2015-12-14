@@ -1,0 +1,144 @@
+body{
+	margin: 10;
+}
+
+#bg{
+	background: #66aaff;
+}
+
+#postForm{
+	position: relative;
+	display: inline-block;
+	margin-right: 25%;
+	margin-left: 25%;
+	
+}
+
+#banner{
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#bottom{
+	font-family: 'Arial';
+	text-align: center;
+	font-size: 12px;
+}
+
+#message{
+     margin-left: auto;
+     margin-right: auto;
+	 margin-top: 20%;
+     font-size: 20pt;
+     text-align: center;
+
+
+}   
+
+#postTable{
+
+}
+
+.postContainer{
+	position: relative;
+	font-size: 10pt;
+	padding: 1px;
+	display: table;
+	width: auto;
+	background: #4D7CB1;
+	margin: 2px;
+	padding-right: 20px;
+	border-bottom:1px solid #A8B9D1;
+	border-right:1px solid #A8B9D1;
+}
+
+.postContainerOP{
+
+	font-size: 10pt;
+
+}
+
+.threadContainer{
+	position: relative;
+	font-size: 10pt;
+	padding: 1px;
+	display: inline-block;
+	width: auto;
+	background: #4D7CB1;
+	margin: 2px;
+	padding-right: 20px;
+	border-bottom:1px solid #A8B9D1;
+	border-right:1px solid #A8B9D1;
+}
+
+.OP{
+	display: inline-flex;
+}
+
+.postPic{
+	display: inline-flex;
+	margin: 2px;
+	margin-left: 5px;
+}
+
+.imageContainer{
+	position: relative;
+	display: inline-block;
+	padding-right: 90px;
+}
+
+.postImageContainer{
+	position: relative;
+	display: table;
+	padding-right: 90px;
+}
+
+.image{
+	display: inline-flex;
+}
+
+.reply_link{
+	color: #AA0000;
+	display: inline-block;
+	overflow: hidden;
+	margin-bottom: 26%;
+}
+
+.postMessage{
+	color: white;
+	font-family: Arial;
+}
+
+.nameOP{
+	color: #003310;
+	font-weight: bold;
+	font-family: Arial;
+
+}
+
+
+.name{
+	color: #003310;
+}
+
+.subject{
+	color: #CC2222;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: 'Cantarell';
+	text-shadow: 2px 2px 4px #000000;
+	font-size: 300%;
+}
+
+.rules{
+	font-size: 12px;
+	margin-left: 20%;
+}
